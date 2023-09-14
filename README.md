@@ -2,7 +2,7 @@
 
 | file name | Latest release | Version |
 | :---: | :---: | :---: |
-| file2 | [check](https://github.com/zHypezinXzL/file2.inc/releases/tag/file2-v1.3.20.0) | v1.3.20.0 |
+| file2 | [check](https://github.com/zHypezinXzL/file2-samp/releases/tag/file2-v1.3.20.0) | v1.3.20.0 |
 
 -------------------------------------------------
 
